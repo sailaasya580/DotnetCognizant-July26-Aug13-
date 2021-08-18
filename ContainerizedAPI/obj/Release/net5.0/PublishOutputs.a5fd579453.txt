@@ -1,0 +1,11 @@
+C:\DotnetCognizant\ContainerizedAPI\obj\Docker\publish\ContainerizedAPI.exe
+C:\DotnetCognizant\ContainerizedAPI\obj\Docker\publish\appsettings.Development.json
+C:\DotnetCognizant\ContainerizedAPI\obj\Docker\publish\appsettings.json
+C:\DotnetCognizant\ContainerizedAPI\obj\Docker\publish\ContainerizedAPI.dll
+C:\DotnetCognizant\ContainerizedAPI\obj\Docker\publish\ContainerizedAPI.deps.json
+C:\DotnetCognizant\ContainerizedAPI\obj\Docker\publish\ContainerizedAPI.runtimeconfig.json
+C:\DotnetCognizant\ContainerizedAPI\obj\Docker\publish\ContainerizedAPI.pdb
+C:\DotnetCognizant\ContainerizedAPI\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\DotnetCognizant\ContainerizedAPI\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotnetCognizant\ContainerizedAPI\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotnetCognizant\ContainerizedAPI\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
